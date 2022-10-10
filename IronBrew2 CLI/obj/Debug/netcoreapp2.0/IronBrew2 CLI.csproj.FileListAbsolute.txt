@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.deps.json
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.runtimeconfig.json
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.runtimeconfig.dev.json
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.dll
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.pdb
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2.dll
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2.pdb
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.AssemblyInfo.cs
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csproj.CopyComplete
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.dll
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.pdb
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.deps.json
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.runtimeconfig.json
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.runtimeconfig.dev.json
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.dll
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2 CLI.pdb
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2.dll
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\bin\Debug\netcoreapp2.0\IronBrew2.pdb
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csproj.AssemblyReference.cache
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.AssemblyInfoInputs.cache
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.AssemblyInfo.cs
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csproj.CoreCompileInputs.cache
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.csproj.CopyComplete
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.dll
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.pdb
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2 CLI\obj\Debug\netcoreapp2.0\IronBrew2 CLI.genruntimeconfig.cache

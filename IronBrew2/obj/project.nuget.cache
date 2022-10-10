@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vG8jIpoBO0Wh+fK2f7msDNS1ljHNpABJ8UDdnNguvu4mpq5Nf6M5E1Pj8ouBv3bVAM0cRe0tPBTjJtt7QOPI0A==",
+  "success": true,
+  "projectFilePath": "E:\\Yume\\Code\\工具\\混淆\\Lua\\IronBrew源码\\IronBrew2\\IronBrew2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.1\\microsoft.dotnet.platformabstractions.3.0.1.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0-preview.18571.3\\system.runtime.compilerservices.unsafe.4.6.0-preview.18571.3.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.text.encoding.codepages\\4.6.0-preview.18571.3\\system.text.encoding.codepages.4.6.0-preview.18571.3.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

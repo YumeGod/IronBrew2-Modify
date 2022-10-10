@@ -1,0 +1,9 @@
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\bin\Release\netcoreapp2.0\IronBrew2.deps.json
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\bin\Release\netcoreapp2.0\IronBrew2.dll
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\bin\Release\netcoreapp2.0\IronBrew2.pdb
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.AssemblyInfoInputs.cache
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.AssemblyInfo.cs
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.csproj.CoreCompileInputs.cache
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.dll
+E:\Yume\Code\工具\混淆\Lua\IronBrew源码\IronBrew2\obj\Release\netcoreapp2.0\IronBrew2.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Q6YlEhMZkuneyWMILXLtIw1Y0bkvmgZmMcKQ987YEr23v6qxNgIJgNTeXGoI1fGmQ8YnpYKORXVI6K6NyKyBg==",
+  "success": true,
+  "projectFilePath": "E:\\Yume\\Code\\工具\\混淆\\Lua\\IronBrew源码\\IronBrew2 CLI\\IronBrew2 CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\baoza\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
